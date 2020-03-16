@@ -1,11 +1,11 @@
-lst1=["Mumbai","Pune","Delhi","Patna"]
-for city in lst1:
+list1=["Mumbai","Pune","Delhi","Patna"]
+for city in list1:
     print(city)
 
 print ("\n")
 
-lst2=["Python","Perl","C","C++","Java"]
-for lang in lst2:
+list2=["Python","Perl","C","C++","Java"]
+for lang in list2:
     print(lang)
 
 print("\n")
